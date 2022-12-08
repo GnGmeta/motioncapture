@@ -1,0 +1,3 @@
+num='hello'
+
+print(num)
